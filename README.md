@@ -1,6 +1,7 @@
 ### Hello there 👋
 
-Check out my fortierpm.github.io page.
+Check out my personal [portfolio webpage](https://github.com/fortierpm/personal-portfolio).
+
 <!--
 **fortierpm/fortierpm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
